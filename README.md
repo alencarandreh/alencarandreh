@@ -10,6 +10,9 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Python para a
 - 🧪 Prática de lógica de programação, depuração e testes de cenários de sucesso e falha
 - 📊 Tratamento e validação de dados em CSV/Excel
 - 🌱 Próximos passos: análise de dados com Python e automação de tarefas
+- ☕ Especialista em extração de cafés especiais, com experiência como Head Barista e instrutor, hoje em transição de carreira para tecnologia
+- 🧠 Do café para o código: levo liderança de equipe, padronização de processos, controle de qualidade e didática
+
 
 ## 🛠️ Tecnologias
 
